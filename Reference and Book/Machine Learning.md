@@ -29,7 +29,7 @@
 按类型分类
 -----------
 
-####机器学习书籍——科普
+###机器学习书籍——科普
 以下图书适用于大多数读者。它们点到了机器学习和数据科学的精华之处，却没有使用枯燥的理论或应用细节。这份书单也包括了一些流行的「统计思想」科普书籍。
 
 The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World   
@@ -47,7 +47,7 @@ Naked Statistics: Stripping the Dread from the Data
 The Drunkard's Walk: How Randomness Rules Our Lives  
 [http://www.amazon.com/dp/0307275175?tag=inspiredalgor-20]( http://www.amazon.com/dp/0307275175?tag=inspiredalgor-20)
 
-####机器学习书籍——初级
+###机器学习书籍——初级
 以下列出最适用于初学者的书籍。希望入门的读者同时也需要参考科普图书（上一条）以及行业应用图书（下一条）。
 
 Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking  
@@ -62,7 +62,7 @@ Data Mining: Practical Machine Learning Tools and Techniques
 Doing Data Science: Straight Talk from the Frontline  
 [http://www.amazon.com/dp/1449358659?tag=inspiredalgor-20]( http://www.amazon.com/dp/1449358659?tag=inspiredalgor-20)
 
-####机器学习书籍——高级
+###机器学习书籍——高级
 以下是适用于希望入门机器学习的本科学生和开发者的书籍，内容包含了机器学习的很多话题，注重如何解决问题，而不是介绍理论。
 
 Machine Learning for Hackers: Case Studies and Algorithms to Get You Started  
@@ -81,7 +81,7 @@ Applied Predictive Modeling
 [http://www.amazon.com/dp/1461468485?tag=inspiredalgor-20]( http://www.amazon.com/dp/1461468485?tag=inspiredalgor-20)
 
 
-####机器学习教材
+###机器学习教材
 
 以下列出了机器学习领域目前最流行的教科书。它们会在研究生课程中出现，包含方法与理论的解读。
 
@@ -111,7 +111,7 @@ Foundations of Machine Learning
 按主题分类
 -----------
 
-####R 机器学习
+###R 机器学习
 
 这方面的首选图书是：《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》。
 
@@ -136,7 +136,7 @@ Machine Learning: The Art and Science of Algorithms that Make Sense of Data
 Foundations of Machine Learning  
 [http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20](http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20)
 
-####Python 机器学习
+###Python 机器学习
 
 以下列出 Python 机器学习热门书籍
 
@@ -167,7 +167,7 @@ Introducing Data Science: Big Data, Machine Learning, and more, using Python too
 Real-World Machine Learning  
 [http://www.amazon.com/dp/1617291927?tag=inspiredalgor-20](http://www.amazon.com/dp/1617291927?tag=inspiredalgor-20)
 
-####深度学习
+###深度学习
 
 注意：深度学习的图书目前还比较稀缺，以下这份列表只能保证数量，而不是质量。最著名的当然是Yoshua Bengio 和 Ian Goodfellow 所著的《Deep Learning》。
 
@@ -195,7 +195,7 @@ Getting Started with TensorFlow
 TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms  
 [http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20] (http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20)
 
-####时序序列预测
+###时序序列预测
 
 目前时序序列预测在实际应用中主要是由 R 语言的平台所主导。
 最优质的入门介绍书籍是 Forecasting：principles and practice
