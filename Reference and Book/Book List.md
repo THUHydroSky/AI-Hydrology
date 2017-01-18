@@ -5,7 +5,8 @@
 The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World 
 [http://www.amazon.com/dp/0465065708?tag=inspiredalgor-20](http://www.amazon.com/dp/0465065708?tag=inspiredalgor-20)
 
-
+The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World 
+[http://www.amazon.com/dp/0465065708?tag=inspiredalgor-20](http://www.amazon.com/dp/0465065708?tag=inspiredalgor-20)
 
 适用于机器学习初学者的书籍
 
