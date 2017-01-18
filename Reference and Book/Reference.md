@@ -113,7 +113,59 @@ Foundations of Machine Learning
 
 ####R 机器学习
 
+这方面的首选图书是：《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》。
+
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction  
+[http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20)
+
+Pattern Recognition and Machine Learning  
+[http://www.amazon.com/dp/0387310738?tag=inspiredalgor-20](http://www.amazon.com/dp/0387310738?tag=inspiredalgor-20)
+
+Machine Learning: A Probabilistic Perspective  
+[http://www.amazon.com/dp/0262018020?tag=inspiredalgor-20](http://www.amazon.com/dp/0262018020?tag=inspiredalgor-20)
+
+Learning From Data  
+[http://www.amazon.com/dp/B00YDJC98K?tag=inspiredalgor-20](http://www.amazon.com/dp/B00YDJC98K?tag=inspiredalgor-20)
+
+Machine Learning  
+[http://www.amazon.com/dp/0070428077?tag=inspiredalgor-20](http://www.amazon.com/dp/0070428077?tag=inspiredalgor-20)
+
+Machine Learning: The Art and Science of Algorithms that Make Sense of Data  
+[http://www.amazon.com/dp/1107422221?tag=inspiredalgor-20](http://www.amazon.com/dp/1107422221?tag=inspiredalgor-20)
+
+Foundations of Machine Learning  
+[http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20](http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20)
+
 ####Python 机器学习
+
+以下列出 Python 机器学习热门书籍
+
+Python Machine Learning  
+[http://www.amazon.com/dp/1783555130?tag=inspiredalgor-20](http://www.amazon.com/dp/1783555130?tag=inspiredalgor-20)
+
+Data Science from Scratch: First Principles with Python  
+[http://www.amazon.com/dp/149190142X?tag=inspiredalgor-20](http://www.amazon.com/dp/149190142X?tag=inspiredalgor-20)
+
+Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems  
+[http://www.amazon.com/dp/1491962291?tag=inspiredalgor-20](http://www.amazon.com/dp/1491962291?tag=inspiredalgor-20)
+
+Introduction to Machine Learning with Python: A Guide for Data Scientists  
+[http://www.amazon.com/dp/1449369413?tag=inspiredalgor-20](http://www.amazon.com/dp/1449369413?tag=inspiredalgor-20)
+
+Vital Introduction to Machine Learning with Python: Best Practices to Improve and Optimize Machine Learning Systems and Algorithms  
+[http://www.amazon.com/dp/B01N4FUDSE?tag=inspiredalgor-20](http://www.amazon.com/dp/B01N4FUDSE?tag=inspiredalgor-20)
+
+Machine Learning in Python: Essential Techniques for Predictive Analysis  
+[http://www.amazon.com/dp/1118961749?tag=inspiredalgor-20](http://www.amazon.com/dp/1118961749?tag=inspiredalgor-20)
+
+Python Data Science Handbook: Essential Tools for Working with Data  
+[http://www.amazon.com/dp/1491912057?tag=inspiredalgor-20](http://www.amazon.com/dp/1491912057?tag=inspiredalgor-20)
+
+Introducing Data Science: Big Data, Machine Learning, and more, using Python tools  
+[http://www.amazon.com/dp/1633430030?tag=inspiredalgor-20](http://www.amazon.com/dp/1633430030?tag=inspiredalgor-20)
+
+Real-World Machine Learning  
+[http://www.amazon.com/dp/1617291927?tag=inspiredalgor-20](http://www.amazon.com/dp/1617291927?tag=inspiredalgor-20)
 
 ####深度学习
 
