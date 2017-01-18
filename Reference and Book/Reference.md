@@ -83,6 +83,31 @@ Applied Predictive Modeling
 
 ####机器学习教材
 
+以下列出了机器学习领域目前最流行的教科书。它们会在研究生课程中出现，包含方法与理论的解读。
+
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction  
+[http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20](http://www.amazon.com/dp/0387848576?tag=inspiredalgor-20
+)
+
+Pattern Recognition and Machine Learning  
+[http://www.amazon.com/dp/0387310738?tag=inspiredalgor-20](http://www.amazon.com/dp/0387310738?tag=inspiredalgor-20)
+
+Machine Learning: A Probabilistic Perspective  
+[http://www.amazon.com/dp/0262018020?tag=inspiredalgor-20](http://www.amazon.com/dp/0262018020?tag=inspiredalgor-20)
+
+Learning From Data  
+[http://www.amazon.com/dp/B00YDJC98K?tag=inspiredalgor-20](http://www.amazon.com/dp/B00YDJC98K?tag=inspiredalgor-20)
+
+Machine Learning  
+[http://www.amazon.com/dp/0070428077?tag=inspiredalgor-20](http://www.amazon.com/dp/0070428077?tag=inspiredalgor-20)
+
+Machine Learning: The Art and Science of Algorithms that Make Sense of Data  
+[http://www.amazon.com/dp/1107422221?tag=inspiredalgor-20](http://www.amazon.com/dp/1107422221?tag=inspiredalgor-20)
+
+Foundations of Machine Learning  
+[http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20](http://www.amazon.com/dp/026201825X?tag=inspiredalgor-20)
+
+
 按主题分类
 -----------
 
