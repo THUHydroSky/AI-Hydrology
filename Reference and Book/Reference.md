@@ -114,7 +114,7 @@ TensorFlow Machine Learning Cookbook
 
 Getting Started with TensorFlow  
 [http://www.amazon.com/dp/1786468573?tag=inspiredalgor-20] (http://www.amazon.com/dp/1786468573?tag=inspiredalgor-20)
-
+ 
 TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms  
 [http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20] (http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20)
 
@@ -140,8 +140,19 @@ Forecasting：principles and practice
 
 其他资源
 -----------
+以下资源是作者用来完成本书目所参考的资料，同时也可能是对大家有用的机器学习的额外书单。
 
+亚马逊机器学习最畅销书  
+[http://amzn.to/2iXxccZ](http://amzn.to/2iXxccZ)
 
+很棒的机器学习书籍  
+[https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+
+我是怎样学习机器学习的？Quora 上的回答百科  
+[https://www.quora.com/How-do-I-learn-machine-learning-1](https://www.quora.com/How-do-I-learn-machine-learning-1)
+
+Reddit 的机器学习常见问题与回答  
+[https://www.reddit.com/r/MachineLearning/wiki/index](https://www.reddit.com/r/MachineLearning/wiki/index)
 
 
 
