@@ -13,16 +13,17 @@
 
 
 ##目录
-* [按类型分类](#按类型分类)
-    * 机器学习书籍——科普
-    * 机器学习书籍——初级
-    * 机器学习书籍——高级
-    * 机器学习教材
-* [按主题分类](#按主题分类)
-    * R 机器学习
-    * Python 机器学习    * 深度学习
-    * 时序序列预测
-* [其他资源](#其他资源)
+* [按类型分类](#按类型分类)  
+    * 机器学习书籍——科普  
+    * 机器学习书籍——初级  
+    * 机器学习书籍——高级  
+    * 机器学习教材  
+* [按主题分类](#按主题分类)  
+    * R 机器学习  
+    * Python 机器学习  
+    * 深度学习  
+    * 时序序列预测  
+* [其他资源](#其他资源)  
 
 
 按类型分类
@@ -47,7 +48,7 @@
 
 注意：深度学习的图书目前还比较稀缺，以下这份列表只能保证数量，而不是质量。最著名的当然是Yoshua Bengio 和 Ian Goodfellow 所著的《Deep Learning》。
 
-Deep Learning   
+Deep Learning  
 [http://www.amazon.com/dp/0262035618?tag=inspiredalgor-20] (http://www.amazon.com/dp/0262035618?tag=inspiredalgor-20)
 
 Deep Learning: A Practitioner's Approach   
