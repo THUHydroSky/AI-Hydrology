@@ -23,8 +23,7 @@
     * 多行文本
     * 文字高亮
     * 换行
-    * 斜体
-    * 粗体
+    * 斜体    * 粗体
     * 删除线
 * [图片](#图片)
     * 来源于网络的图片
@@ -49,31 +48,49 @@
 
 深度学习
 -----------
-注意：深度学习的图书目前还比较稀缺，以下这份列表只能保证数量，而不是质量。
-
-Deep Learning 
+注意：深度学习的图书目前还比较稀缺，以下这份列表只能保证数量，而不是质量。    
+Deep Learning   
 [http://www.amazon.com/dp/0262035618?tag=inspiredalgor-20] (http://www.amazon.com/dp/0262035618?tag=inspiredalgor-20)
 
-Deep Learning: A Practitioner's Approach 
+Deep Learning: A Practitioner's Approach   
 [http://www.amazon.com/dp/1491914254?tag=inspiredalgor-20] (http://www.amazon.com/dp/1491914254?tag=inspiredalgor-20)
 
-Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms 
+Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms   
 [http://www.amazon.com/dp/1491925612?tag=inspiredalgor-20] (http://www.amazon.com/dp/1491925612?tag=inspiredalgor-20)
 
-Learning TensorFlow: A guide to building deep learning systems 
+Learning TensorFlow: A guide to building deep learning systems   
 [http://www.amazon.com/dp/1491978511?tag=inspiredalgor-20] (http://www.amazon.com/dp/1491978511?tag=inspiredalgor-20)
 
-Machine Learning with TensorFlow 
+Machine Learning with TensorFlow  
 [http://www.amazon.com/dp/1617293873?tag=inspiredalgor-20] (http://www.amazon.com/dp/1617293873?tag=inspiredalgor-20)
 
-TensorFlow Machine Learning Cookbook
+TensorFlow Machine Learning Cookbook  
 [http://www.amazon.com/dp/1786462168?tag=inspiredalgor-20] (http://www.amazon.com/dp/1786462168?tag=inspiredalgor-20)
 
-Getting Started with TensorFlow 
+Getting Started with TensorFlow  
 [http://www.amazon.com/dp/1786468573?tag=inspiredalgor-20] (http://www.amazon.com/dp/1786468573?tag=inspiredalgor-20)
 
-TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms 
+TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms  
 [http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20] (http://www.amazon.com/dp/1939902452?tag=inspiredalgor-20)
+
+时序序列预测
+-----------
+目前时序序列预测在实际应用中主要是由 R 语言的平台所主导。
+最优质的入门介绍书籍是 Forecasting：principles and practice
+时序序列最优质的教科书是 Time Series Analysis: Forecasting and Control
+
+Time Series Analysis: Forecasting and Control  
+[http://www.amazon.com/dp/1118675029?tag=inspiredalgor-20] (http://www.amazon.com/dp/1118675029?tag=inspiredalgor-20)
+
+Practical Time Series Forecasting with R: A Hands-On Guide    
+[http://www.amazon.com/dp/0997847913?tag=inspiredalgor-20] (http://www.amazon.com/dp/0997847913?tag=inspiredalgor-20)
+
+Introduction to Time Series and Forecasting  
+[http://www.amazon.com/dp/3319298526?tag=inspiredalgor-20] (http://www.amazon.com/dp/3319298526?tag=inspiredalgor-20)
+
+Forecasting：principles and practice  
+[http://www.amazon.com/dp/0987507109?tag=inspiredalgor-20] (http://www.amazon.com/dp/0987507109?tag=inspiredalgor-20)
+
 
 
 横线
