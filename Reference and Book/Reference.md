@@ -1,18 +1,19 @@
 #机器学习领域书目全集
 
 ===========================
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
+来自 Swinburne 科技大学的 Jason Brownlee 博士为我们带来了最新一期的机器学习书目，内容覆盖科普、各级教材以及不同编程语言的机器学习应用。
 
 ****
 ####　　　转载自:微信公众号THU数据派
 ####　　　原文链接:[http://machinelearningmastery.com/machine-learning-books/](http://machinelearningmastery.com/machine-learning-books/)
-####      鸣谢   guodongxiaren 
+
 
 ===========================
 
 
 
 ##目录
+* [最流行机器学习科普图书](#最流行机器学习科普图书)
 * [横线](#横线)
 * [标题](#标题)
 * [文本](#文本)
